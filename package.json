@@ -1,14 +1,21 @@
 {
-  "displayName": "Dynamic Hour Light",
-  "description": "Small daylight project copied from YT Tutorial",
-  "name": "com.kaiymu.dynamichourlight",
-  "version": "1.0.0",
-  "unity": "2018.3",
-  "author": {
-    "name": "Thomas Fontaine",
-    "email": "thomas.fontaine.tf@gmail.com",
-    "url": "https://tfontaine.com"
-  },
-  "keywords": "library",
-  "type": "library"
+	"displayName": "Dynamic Hour Light",
+	"description": "Small daylight project copied from YT Tutorial",
+	"name": "com.kaiymu.dynamichourlight",
+	"version": "1.0.0",
+	"unity": "2018.3",
+	"author": {
+		"name": "Thomas Fontaine",
+		"email": "thomas.fontaine.tf@gmail.com",
+		"url": "https://tfontaine.com"
+	},
+	"keywords": "library",
+	"type": "library",
+	"samples": [
+		{
+			"displayName": "Sample scene",
+			"description": "Just play the scene to see a day / night cycle",
+			"path": "Samples~/DayNightCycle"
+		}
+	]	
 }
